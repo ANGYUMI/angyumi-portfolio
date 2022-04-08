@@ -1,9 +1,16 @@
 <template>
-  <Home/>
+  <div>
+ 
+  </div>
 </template>
 
 <script>
-export default {
-  name: 'IndexPage'
-}
+  export default {
+
+  }
+
 </script>
+
+<style lang="less" scoped>
+
+</style>
