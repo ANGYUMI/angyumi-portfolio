@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    index
   </div>
 </template>
 
@@ -19,5 +19,5 @@
     text-decoration: none;
     box-sizing: border-box;
   }
-
+ 
 </style>
